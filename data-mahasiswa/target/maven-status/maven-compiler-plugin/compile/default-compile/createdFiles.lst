@@ -1,0 +1,6 @@
+data\mhs\datamahasiswa\repo\DataMhsRepo.class
+data\mhs\datamahasiswa\model\DataMhsModel.class
+data\mhs\datamahasiswa\controller\WebController.class
+data\mhs\datamahasiswa\entity\DataMhs.class
+data\mhs\datamahasiswa\services\DataMhsService.class
+data\mhs\datamahasiswa\DataMahasiswaApplication.class
